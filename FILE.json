@@ -1,5 +1,14 @@
 {
-  "Technology": "Description for Technology",
-  "Health": "Description for Health",
-  "Travel": "Description for Travel"
+  "Technology": {
+    "title": "Technology News and Updates",
+    "description": "Latest news and updates in technology."
+  },
+  "Health": {
+    "title": "Health Tips and News",
+    "description": "Useful tips and the latest news in health."
+  },
+  "Travel": {
+    "title": "Travel Guides and Tips",
+    "description": "Your guide to the best travel destinations."
+  }
 }
